@@ -1,0 +1,2 @@
+# EjercicioSeminarioGit
+Una tonteria
